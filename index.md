@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Iniciando en discord.js
+## Introducción
+Este repositorio es para que tu puedas aprender de una forma más clara, pues tu seras quien interprete esto.
 
-You can use the [editor on GitHub](https://github.com/k1-1960/Iniciando-en-discord.js/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+En este repositorio aprenderas de forma bastante sencilla como usar discord.js y otros datos que de seguro te ayudarán a trabajar en esto de los bots de discord con discord.js
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Como trabajaremos
+Como prueba de que nada es limitante del conocimiento, esto lo haremos desde Android o desde cualquier equipo/dispositivo que posea un navegador y una conexión a internet.
 
-### Markdown
+## Lenguaje
+En este proyecto utilizaremos un lenguaje de programación llamado node.js, en si, no es un lenguaje, es más bien la herramienta que nos permitirá establecer una conexión a nuestro cliente(bot) por medio de peticiones a la api de discord(cosas que hace el paquete de discord.js).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+El verdadero lenguaje que usaremos seria [`JavaScript`](https://developer.mozilla.org/es/docs/Web/JavaScript).
 
-```markdown
-Syntax highlighted code block
+Podria sonarte complicado, pero creeme, si pones esfuerzo e interés puedes adquirir conocimientos básicos y hasta intermedios, y quizá decidas dedicarte a esto de manera profesional.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/k1-1960/Iniciando-en-discord.js/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> [**Siguente pagina:** _Entornos de programación._ →](https://github.com/k1-1960/Iniciando-en-discord.js/blob/main/intro/IDE.md)
