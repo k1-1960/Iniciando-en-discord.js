@@ -14,4 +14,4 @@ El verdadero lenguaje que usaremos seria [`JavaScript`](https://developer.mozill
 
 Podria sonarte complicado, pero creeme, si pones esfuerzo e interés puedes adquirir conocimientos básicos y hasta intermedios, y quizá decidas dedicarte a esto de manera profesional.
 
-> [**Siguente pagina:** _Entornos de programación._ →](https://github.com/k1-1960/Iniciando-en-discord.js/blob/main/intro/IDE.md)
+> [**Siguente pagina:** _Entornos de programación._ →](https://k1-1960.github.io/Iniciando-en-discord.js/ide)
