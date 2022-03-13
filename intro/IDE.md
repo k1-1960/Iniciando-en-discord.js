@@ -18,6 +18,23 @@ En resumen: `CACHE`, eso es lo importante, todo se va a guardar ahi, eso es para
 
 Esto lo irás entendiendo más adelante.
 
-Concluyendo con esta enfasis, si tienes en mente una IDE online como host unico/principal de tu bot a largo plazo, piensalo 2 veces.
+Concluyendo con este enfasis, si tienes en mente una IDE online como host unico/principal de tu bot a largo plazo, piensalo 2 veces.
 
-> [**Siguente pagina:** _Preparandolo todo →_]()
+## IDEs recomendables
+### Replit.com
+[replit.com o repl.it](https://www.replit.com/) como se le solia llamar es una IDE bastante decente, en lo personal he tenido muy pocos inconvenientes con el, pero en cuanto a recursos niguno.
+
+- Plan Free ✅
+- Planes de pago ✅
+- Hosteo estático ❔
+
+### Glitch
+[Glitch](https://glitch.com/) es una IDE muy bonita en cuanto a aspecto visual, en mi opinión, concidero este como una de los IDEs más comodos al hacer aplicaciones.
+
+- Plan Free ✅
+- Planes de pago ✅
+- Hosteo estático ✅
+
+
+> Utilizaremos replit...
+> [**Siguente pagina:** _Preparandolo todo →_](https://github.com/k1-1960/Iniciando-en-discord.js/blob/main/intro/PREPARING_EVERYTHING.md)
