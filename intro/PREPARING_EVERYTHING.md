@@ -1,6 +1,19 @@
 # Preparemos nuestro entorno.
 Muy bien, una vez tengamos claro lo antes explicado podemos continuar.
 
+## Antes de empezar...
+Hay unas cosas que quiero que sepas antes de empezar, lo primero es que utilizar replit tiene ventajas y desventajas, algunas de estas pueden ser:
+### Ventajas
+- IDE colaborativo: Puedes invitar a personas para que colaboren contigo en tiempo real.
+- Intuitivo
+- Facil de usar
+
+### Desventajas
+- No es privado: pueden acceder a todo lo que tenga tu proyecto menos los Environment Secrets, esto pueden hacerlo solo con tu nombre de usuario.
+- Tus proyectos se caen: Los proyectos por si solos no se quedaran 24/7 activos, necesitaras una herramienta externa, tranquil@, tambien es gratis.
+
+Una vez que tengas en cuenta esto, podemos seguir.
+
 ## Inciando en replit
 Primero que nada debes create una cuenta en dicha pagina, si ya tienes una cuenta puedes omitir este pequeño paso, pero si no es asi, debes de crearte una cuenta, [registrandote en replit](https://replit.com/signup) y brindando la información que te solicite.
 
