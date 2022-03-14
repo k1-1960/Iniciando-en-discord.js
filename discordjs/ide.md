@@ -38,4 +38,4 @@ Concluyendo con este enfasis, si tienes en mente una IDE online como host unico/
 
 > Utilizaremos replit...
 
-> [**Siguente pagina:** _Preparandolo todo →_](https://www.k1dev.tk/curso/preparing)
+> [**Siguente pagina:** _Preparandolo todo →_](https://www.k1dev.tk/discordjs/preparing)
